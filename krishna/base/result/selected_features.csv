@@ -1,0 +1,7 @@
+rank,feature,type
+1,FIXATION_COUNT,initial
+2,FPCI,initial
+3,Total Saccade Amplitude,initial
+4,FSI,initial
+5,OEI,initial
+6,PRR,added

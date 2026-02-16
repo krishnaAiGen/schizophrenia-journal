@@ -1,0 +1,7 @@
+num_features,features,f1_score,added_feature
+5,"FIXATION_COUNT, FPCI, Total Saccade Amplitude, FSI, OEI",0.5804702080937694,Baseline (5 features)
+6,"FIXATION_COUNT, FPCI, Total Saccade Amplitude, FSI, OEI, Pupil size ratio",0.6181627342502897,Pupil size ratio
+7,"FIXATION_COUNT, FPCI, Total Saccade Amplitude, FSI, OEI, Pupil size ratio, Dynamic range of pupil size",0.6408312254634762,Dynamic range of pupil size
+8,"FIXATION_COUNT, FPCI, Total Saccade Amplitude, FSI, OEI, Pupil size ratio, Dynamic range of pupil size, AVERAGE_FIXATION_DURATION",0.6547657896220903,AVERAGE_FIXATION_DURATION
+9,"FIXATION_COUNT, FPCI, Total Saccade Amplitude, FSI, OEI, Pupil size ratio, Dynamic range of pupil size, AVERAGE_FIXATION_DURATION, SACCADE_COUNT",0.6351846861193458,SACCADE_COUNT
+10,"FIXATION_COUNT, FPCI, Total Saccade Amplitude, FSI, OEI, Pupil size ratio, Dynamic range of pupil size, AVERAGE_FIXATION_DURATION, SACCADE_COUNT, PRR",0.6463039211029166,PRR

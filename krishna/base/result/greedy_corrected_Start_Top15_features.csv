@@ -1,0 +1,16 @@
+rank,feature
+1,FPCI
+2,Total Saccade Amplitude
+3,FIXATION_COUNT
+4,AS
+5,AVERAGE_FIXATION_DURATION
+6,OEI
+7,Valid Viewing Duration
+8,Dynamic range of pupil size
+9,FSI
+10,PIS
+11,PRR
+12,AVERAGE_SACCADE_AMPLITUDE
+13,FSI2
+14,SACCADE_COUNT
+15,Fixation_skewness
